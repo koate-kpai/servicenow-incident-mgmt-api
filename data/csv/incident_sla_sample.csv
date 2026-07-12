@@ -1,0 +1,9 @@
+number,sla_name,state,breach_reached,breach_threshold_minutes,elapsed_minutes,percentage_remaining,at_risk,opened_at,sla_due
+INC001001,Priority 2 Resolution,In Progress,false,480,180,62.5,false,2026-07-01 08:15:00,2026-07-01 16:15:00
+INC001003,Priority 1 Resolution,In Progress,false,240,60,75.0,false,2026-07-01 10:00:00,2026-07-01 14:00:00
+INC001005,Priority 2 Resolution,In Progress,false,480,45,90.6,false,2026-07-01 11:30:00,2026-07-01 19:30:00
+INC001007,Priority 1 Resolution,In Progress,false,240,100,58.3,false,2026-07-01 13:20:00,2026-07-01 17:20:00
+INC001009,Priority 2 Resolution,In Progress,false,480,290,39.6,true,2026-07-01 15:10:00,2026-07-01 23:10:00
+INC001010,Priority 2 Resolution,In Progress,false,480,240,50.0,false,2026-07-01 16:00:00,2026-07-02 00:00:00
+INC001013,Priority 2 First Response,In Progress,false,120,45,62.5,false,2026-07-02 10:30:00,2026-07-02 12:30:00
+INC001015,Priority 2 Resolution,In Progress,false,480,30,93.8,false,2026-07-02 12:45:00,2026-07-02 20:45:00
