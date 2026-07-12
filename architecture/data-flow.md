@@ -2,7 +2,7 @@
 
 ```mermaid
 graph LR
-    User[User / System] -->|Create| SN[ServiceNow dev432519]
+    User[User / System] -->|Create| SN[ServiceNow dev4XXXXX]
     SN -->|REST API| Script1[01_create_incident.py]
     Script1 -->|sys_id| Script2[02_query_incidents.py]
     Script2 -->|Filtered List| Script3[03_assign_incident.py]
